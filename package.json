@@ -1,0 +1,16 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "Video Calling app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaushal",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "websocket": "^1.0.25",
+    "ws": "^4.0.0"
+  }
+}
